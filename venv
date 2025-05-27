@@ -1,0 +1,9 @@
+<script>start("/Users/Nick/Documents/GetMyLive/.venv/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bin","bin",1,608,"608 B",1748368274,"5/27/25, 10:51:14 AM");</script>
+<script>addRow("etc","etc",1,96,"96 B",1748367864,"5/27/25, 10:44:24 AM");</script>
+<script>addRow("include","include",1,96,"96 B",1748367018,"5/27/25, 10:30:18 AM");</script>
+<script>addRow("lib","lib",1,96,"96 B",1748368354,"5/27/25, 10:52:34 AM");</script>
+<script>addRow("share","share",1,96,"96 B",1748367984,"5/27/25, 10:46:24 AM");</script>
+<script>addRow(".gitignore",".gitignore",0,1,"1 B",1748367012,"5/27/25, 10:30:12 AM");</script>
+<script>addRow("pyvenv.cfg","pyvenv.cfg",0,274,"274 B",1748367011,"5/27/25, 10:30:11 AM");</script>
